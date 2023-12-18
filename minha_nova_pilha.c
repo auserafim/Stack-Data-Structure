@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define TAM 5
+#define TAM 4
 
 typedef struct {
   int pilha[TAM];
